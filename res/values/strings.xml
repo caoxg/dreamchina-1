@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DreamChina</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_agent">AppleWebKit Android:%1$s AppName:%2$s AppVersion:%3$s Model:%4$s Channel:%5$s UDID:%6$s</string>
+
+</resources>

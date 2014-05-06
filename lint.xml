@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DefaultLocale">
+        <ignore path="src/com/dreamchina/util/AzkHelper.java" />
+    </issue>
+    <issue id="ExportedReceiver">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+    <issue id="InlinedApi">
+        <ignore path="src/com/handmark/pulltorefresh/library/PullToRefreshBase.java" />
+    </issue>
+    <issue id="ManifestOrder">
+        <ignore path="AndroidManifest.xml" />
+    </issue>
+    <issue id="MissingTranslation" severity="ignore" />
+    <issue id="ViewConstructor" severity="ignore" />
+</lint>
